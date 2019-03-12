@@ -1,0 +1,23 @@
+main{
+    margin: 0 auto;
+    width: 1000px;
+    background: #4c5353;
+}
+
+.picture{
+    width: 320px;
+    height: auto;
+    margin: 0 auto;
+}
+.resume{
+    width: 1000px;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    color: #131212;
+    background: #34b89d;
+    white-space: pre;
+    border: 1px solid #131212;
+}
