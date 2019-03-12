@@ -1,7 +1,7 @@
 main{
     margin: 0 auto;
     width: 1000px;
-    
+    background: #4c5353;
 }
 
 .picture{
@@ -17,18 +17,6 @@ main{
     font-family: "Arial", sans-serif;
     text-align: center;
     color: #131212;
+    background: #34b89d;
     white-space: pre;
 }
-position: relative;
-
-position: absolute;
-height: 100px;
-top: 0;
-bottom: 0;
-margin auto 0;
-
-
-    width: 300px;
-    height: 200px;
-    position: relative;
-    margin: 0 auto; 
