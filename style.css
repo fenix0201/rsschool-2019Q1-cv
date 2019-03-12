@@ -1,0 +1,21 @@
+body{
+    position: relative;
+}
+.picture{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.resume{
+    width: 100%;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    color: #131212;
+    white-space: pre;
+}
+
+
