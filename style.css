@@ -1,14 +1,16 @@
-body{
-    position: relative;
+main{
+    margin: 0 auto;
+    width: 1000px;
+    
 }
+
 .picture{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
 }
 .resume{
-    width: 100%;
+    width: 1000px;
     font-style: normal;
     font-size: 20px;
     line-height: 2;
@@ -17,5 +19,16 @@ body{
     color: #131212;
     white-space: pre;
 }
+position: relative;
+
+position: absolute;
+height: 100px;
+top: 0;
+bottom: 0;
+margin auto 0;
 
 
+    width: 300px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto; 
